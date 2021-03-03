@@ -12,4 +12,5 @@ The project includes :
 
 - Model selection (different models were tested : SVM, Random Forest, MLP, Ada Boost, Stacking...)
 
+**Technologies** : NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
 
