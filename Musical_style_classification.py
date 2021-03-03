@@ -608,7 +608,7 @@ predictions = encoder.inverse_transform(predictions)
 # In[57]:
 
 
-predictions_csv = pd.DataFrame(predictions, columns = ['genre']).to_csv('./adem_gianni.csv', header=True, index=False)
+predictions_csv = pd.DataFrame(predictions, columns = ['genre']).to_csv('./final_predictions.csv', header=True, index=False)
 
 
 # In[ ]:
